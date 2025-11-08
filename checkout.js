@@ -1,1 +1,1 @@
-console.log('checkout flow');
+console.log('add checkout function');
